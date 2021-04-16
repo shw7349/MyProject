@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="Comment">
+<!-- <select id="CommentList"
+      resultType="com.green.pboard.vo.CommentVo" >
+      <include refid="pagingHeader"/>
+      SELECT (MEM_ID, COMMENT_CONTENT) FROM COMMENTS WHERE IDX = #{IDX} 
+ </select>
+  
+  <insert id="CommentInsert">
+    	INSERT INTO COMMENTS (COMMENT_NUM, IDX, COMMENT_CONTENT, COMMENTUSER, SECRET_COMMENT)
+    	VALUES (COMMENT_SEQ.NEXTVAL, #{IDX}, #{COMMENT_CONTENT}, #{COMMENTUSER}, #{SECRET_COMMENT})
+  </insert>
+  <delete id="CommentDelete">
+  	DELETE FROM COMMNETS
+  	WHERE COMMENT_NUM = #{comment_num}
+  </delete>
+  
+  <select id="countComment" resultType="int">
+  	SELECT COUNT(*) FROM COMMENTS WHERE IDX = #{IDX}
+  </select>
+  
+   페이징 SQL 
+  <sql id="pagingHeader">
+  		SELECT * FROM ()SELECT ROWNUM AS rn, A.* FROM (
+  </sql>
+  <sql id= "pagingFooter">
+  		) A
+  	) WHERE rn BETWEEN #{start} AND #{end}	
+  </sql> -->
+</mapper>
+
+
+
+
+
+
+
+
+
+
