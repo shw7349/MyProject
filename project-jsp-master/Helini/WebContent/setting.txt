@@ -1,0 +1,16 @@
+[서버 커넥션풀 세팅]
+
+<Resource
+  name="jdbc/oracle"
+  auth="Container"
+  type="javax.sql.DataSource"
+  driverClassName="oracle.jdbc.driver.OracleDriver"
+  url="jdbc:oracle:thin:@localhost:1521:xe"
+  username="helini" 
+  password="1234"
+  maxActive="50"
+  maxWait="-1">
+</Resource>
+
+[지도 API 사용 위해 프로젝트 실행 시 포트 번호 설정]
+Port: 8080
