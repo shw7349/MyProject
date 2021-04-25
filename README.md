@@ -21,13 +21,13 @@
 - WS & WAS : Apache, Tomcat 9
 
 ## 실행화면
-![](./jsp/images/1.png)
-![](./jsp/images/2.png)
-![](./jsp/images/3.png)
-![](./jsp/images/4.png)
-![](./jsp/images/5.png)
-![](./jsp/images/6.png)
-![](./jsp/images/7.png)
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./4.png)
+![](./5.png)
+![](./6.png)
+![](./7.png)
 
 
 # SPRING 프로젝트
