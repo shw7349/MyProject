@@ -71,10 +71,10 @@
 - Library & Framework : Spring, MyBatis, Lombok 등
 
 ## 실행화면
-![](./images/1.png)
-![](./images/2.png)
-![](./images/3.png)
-![](./images/4.png)
-![](./images/5.png)
-![](./images/6.png)
-![](./images/7.png)
+![](./s-1.png)
+![](./s-2.png)
+![](./s-3.png)
+![](./s-4.png)
+![](./s-5.png)
+![](./s-6.png)
+![](./s-7.png)
